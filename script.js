@@ -3,8 +3,8 @@
 // ===============================
 const WHATSAPP = "573161976350"; // WhatsApp de atención, sin + ni espacios
 const X_URL = "https://x.com/"; // Enlace genérico hasta configurar tus redes
-const NEQUI = "3023917993";    // Número Nequi
-const NEQUI_NAME = "Jefferson Peñaranda";
+const NEQUI = "29700056307";    // Número Nequi
+const NEQUI_NAME = "Emeli Rodriguez";
 // ===============================
 
 const TOTAL = 10000;
