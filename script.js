@@ -3,7 +3,7 @@
 // ===============================
 const WHATSAPP = "573161976350"; // WhatsApp de atención, sin + ni espacios
 const X_URL = "https://x.com/"; // Enlace genérico hasta configurar tus redes
-const NEQUI = "29700056307";    // Número Nequi
+const Bancolombia = "29700056307";    // Número Nequi
 const NEQUI_NAME = "Emeli Rodriguez";
 // ===============================
 
