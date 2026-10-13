@@ -1,7 +1,7 @@
 // ===============================
 // CONFIGURACIÓN: CAMBIA ESTOS DATOS
 // ===============================
-const WHATSAPP = "573216513686"; // WhatsApp de atención, sin + ni espacios
+const WHATSAPP = "573161976350"; // WhatsApp de atención, sin + ni espacios
 const X_URL = "https://x.com/"; // Enlace genérico hasta configurar tus redes
 const BANK_ACCOUNT = "29700056307";
 const BANK_NAME = "Emeli Rodríguez";
